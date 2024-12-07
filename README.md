@@ -6,7 +6,7 @@ This repository documents the results and methodology of a test conducted to ana
 The experiment explores the relationship between throttle input and thrust output, as well as the required thrust to keep the robot static at specific angles. 
 The findings aim to aid in optimizing the performance and control of propeller-driven wall-climbing robots.
 
-
+-----------------------------------------------
 
 Project Details
 
@@ -18,7 +18,7 @@ Thrust vs. Angle: Calculate the thrust required to maintain stability at various
 
 Dynamic Control: Use findings to derive the throttle needed to achieve specific thrust levels at given angles.
 
-
+-----------------------------------------------
 
 Experiment Setup
 
@@ -30,7 +30,7 @@ Thrust Mechanism:6-inch, 3-blade propeller, 50A ESC.
 
 Powered by a 3-cell, 3200 mAh LiPo battery (35C).
 
-
+-----------------------------------------------
 
 Components:
 
