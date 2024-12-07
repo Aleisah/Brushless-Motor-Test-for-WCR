@@ -23,6 +23,7 @@ Thrust Mechanism:
 6-inch, 3-blade propeller.
 50A ESC.
 Powered by a 3-cell, 3200 mAh LiPo battery (35C).
+
 Components:
 
 Thrust Measurement: Digital scale.
